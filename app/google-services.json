@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37789957132",
+    "project_id": "fyp23-adebf",
+    "storage_bucket": "fyp23-adebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37789957132:android:7cbb949029305e1db5c229",
+        "android_client_info": {
+          "package_name": "com.example.officerewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37789957132-v8744f5mjh8n9es8h6s9tp142m8ckjc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKugFK_9gTRIj6Ofje6ZFYBZ730C3SmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37789957132-v8744f5mjh8n9es8h6s9tp142m8ckjc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
